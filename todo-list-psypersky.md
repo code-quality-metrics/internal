@@ -11,6 +11,10 @@
 - Is this cool? https://labs.spotify.com/
 - Is this cool? https://www.osnews.com/story/93/interview-with-ville-turjanmaa-the-creator-of-menuetos/
 - Hacker https://abcnews.go.com/Technology/fbi-wanted-hacker-jeremy-hammond-cats-password/story?id=26884738
+- Read https://sookocheff.com/post/api/uploading-large-payloads-through-api-gateway/
+- What does this company does? https://aws.amazon.com/marketplace/seller-profile?id=9cd3eab8-8dc4-48c1-b035-ec64bb62dfe0&ref=dtl_B077YSFKHC
+- check https://www.itopstimes.com/cloud/10-use-cases-for-serverless/s
+## Speed test
 
-
-#
+https://github.com/miquels/speedtest/blob/master/server/server.go
+https://help.speedtest.net/hc/en-us/articles/360038679354-How-does-Speedtest-measure-my-network-speeds-
