@@ -1,6 +1,6 @@
 # Open Access
 
-This is the story about the incredible effort and sacrifice some people endure so we can press a few keys and exercise our Human Right Access to information in a way our corrupt corporate governments consider illegal.
+This is the story about the incredible effort and sacrifice some people endure so we can press a few keys and exercise our Human Right Access to information.
 
 Alexandra Asanovna Elbakyan
 Science's Pirate Queen
